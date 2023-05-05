@@ -33,6 +33,13 @@ const product_card = [
         description: "Best of luck on your new adventure, Adam! Forever grateful for your mentorship",
         price: "Please keep in touch!",
         thumb: "./images/Ailin.png"
+    },
+    {
+        id: 6,
+        product_name: "Rafael",
+        description: "Hey Adam, you are one of  the most brightest mind I had the pleasure to work with, continue to be this smart and fun person",
+        price: "Thank You",
+        thumb: "./images/Rafael.png"
     }
 ]
 export default product_card;
